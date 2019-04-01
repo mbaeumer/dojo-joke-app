@@ -1,4 +1,4 @@
-package se.mbaeumer.jokeapp;
+package com.squeed.jokeapp.jokeapp;
 
 public class GothenburgJokeService extends AbstractJokeService {
     @Override

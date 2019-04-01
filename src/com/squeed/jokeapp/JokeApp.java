@@ -1,4 +1,4 @@
-package se.mbaeumer.jokeapp;
+package com.squeed.jokeapp;
 
 public class JokeApp {
     public static void main(String[] args){

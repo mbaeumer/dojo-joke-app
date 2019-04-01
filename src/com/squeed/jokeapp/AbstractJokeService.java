@@ -1,4 +1,4 @@
-package se.mbaeumer.jokeapp;
+package com.squeed.jokeapp.jokeapp;
 
 import java.util.ArrayList;
 import java.util.List;
